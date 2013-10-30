@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'AdobeBlank';
+	src: url('AdobeBlank.eot');
+	src: url('AdobeBlank.eot?#iefix') format('embedded-opentype'),
+		 url('AdobeBlank.woff') format('woff'),
+		 url('AdobeBlank.ttf') format('truetype'),
+		 url('AdobeBlank.svg#AdobeBlank') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
