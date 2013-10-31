@@ -1,4 +1,5 @@
-Adobe-Blank
-===========
+# Adobe Blank
 
-Reduced version to "English"-only characters
+Reduced/subset version to "English"-only characters
+
+See a demo: http://stowball.github.io/Adobe-Blank/
